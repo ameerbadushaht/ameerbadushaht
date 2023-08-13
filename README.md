@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
 </div>
-<!-- <img src="https://komarev.com/ghpvc/?username=ameerbadushaht&style=flat-square&color=blue" alt=""/> -->
+<img src="https://komarev.com/ghpvc/?username=ameerbadushaht&style=flat-square&color=blue" alt=""/>
 
 ## Hi, I am Ameer Badushah T
 ---
