@@ -42,4 +42,4 @@ I am a self-taught MERN stack web developer <img src="https://media.giphy.com/me
 
 ---
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerbadushaht&langs_count=8) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerbadushaht&langs_count=8) 
