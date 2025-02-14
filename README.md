@@ -43,4 +43,8 @@ I am a Full Stack web developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
+
+[![pi0 Nuxter profile](https://nuxters.nuxt.com/card/pi0/og.png)](https://nuxters.nuxt.com/pi0)
+
+
 <!---  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerbadushaht&langs_count=8) -->
