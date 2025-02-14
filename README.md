@@ -44,25 +44,6 @@ I am a Full Stack web developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 
-<table>
-  <tr>
-  <td>
-<p align="center">
-  <samp>
-    Focusing to provide the best <strong title="Developer Experience">DX</strong> to deliver the best <strong title="User Experience">UX</strong> with <a href="https://nuxt.com">Nuxt</a> and <a href="https://hub.nuxt.com">NuxtHub</a>.<br/>
-    <a href="https://atinux.com">Website</a> .
-    <a href="https://twitter.com/">Twitter</a> .
-    <a href="https://linkedin.com/in/">LinkedIn</a>
-  </samp>
-</p>
-</td>
-    <td>
-<p align="center">
-  <a href="https://nuxters.nuxt.com/atinux"><img src="https://nuxters.nuxt.com/__og-image__/image/Atinux/og.png" alt="Atinux on Nuxters" width="300" /></a>
-</p>
-      </td>
-</tr>
-</table>
 
 
 <!---  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerbadushaht&langs_count=8) -->
