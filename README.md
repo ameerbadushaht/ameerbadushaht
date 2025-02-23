@@ -21,9 +21,9 @@
 I am a Full Stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. With a passion for creating dynamic and user-friendly websites. With a strong problem-solving ability, adaptability, and effective communication skills, I bring skills set to collaborate on projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ameerbadushaht-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ameerbadushaht/)
-- 📄 My Resume : <a href="https://drive.google.com/file/d/1qHlJPkbujcfzAW5_CTXt7WD0jwZjE6zg/view?usp=sharing">
+- 📄 My Resume : <a href="">
     <img src="https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download Badge"/>
-  </a>
+   </a>
  ---
  ### :hammer_and_wrench: Languages and Tools :
  <div>
